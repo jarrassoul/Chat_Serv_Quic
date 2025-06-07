@@ -1,0 +1,6 @@
+{
+    "server_host": "localhost",
+    "server_port": 4433,
+    "alpn_protocols": ["chat/1"],
+    "verify_mode": 0
+}

@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.python-version
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE - PyCharm
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# IDE - Other
+*.swp
+*.swo
+*~
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# SSL Certificates (don't commit sensitive files)
+ssl/*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+
+# Logs
+*.log
+logs/
+log/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+config/*.local.json
+*.local.py
+temp/
+tmp/
+
+# Documentation
+docs/_build/
+_build/
+_static/
+_templates/
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+

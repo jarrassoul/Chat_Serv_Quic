@@ -1,0 +1,7 @@
+{
+    "host": "0.0.0.0",
+    "port": 4433,
+    "cert_path": "ssl/cert.pem",
+    "key_path": "ssl/key.pem",
+    "alpn_protocols": ["chat/1"]
+}
