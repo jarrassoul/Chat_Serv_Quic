@@ -1,3 +1,4 @@
+#server_state.py
 from dataclasses import dataclass
 from typing import Dict, Optional
 from src.protocol.states import StateManager, ConnectionState
